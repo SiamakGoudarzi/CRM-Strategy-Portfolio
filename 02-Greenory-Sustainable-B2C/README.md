@@ -1,7 +1,7 @@
 # Case Study 02: Greenory - Sustainable Urban Living 🌿📱
 
 ## 🇺🇸 English
-Greenory is a D2C brand focused on plastic-free lifestyle products. This project analyzes the customer service architecture and the integration of CRM systems to foster a sustainable community.
+Greenory is a B2C brand focused on plastic-free lifestyle products. This project analyzes the customer service architecture and the integration of CRM systems to foster a sustainable community.
 
 - **Key Focus:** D2C Business Models, Sustainability Marketing, and Customer Loyalty.
 - **Analysis Tools:** KANO Model (Basic, Performance, Excitement factors), Target Group Segmentation (25-40 years), and SWOT.
