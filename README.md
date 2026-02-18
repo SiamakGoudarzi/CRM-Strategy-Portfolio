@@ -12,8 +12,8 @@ Welcome to my professional portfolio. This repository showcases a collection of 
    - *Focus:* Premium branding, intercultural marketing, and employee-centric CRM.
    - *Key Deliverable:* Strategic Analysis & SWOT.
 
-2. **[Greenory - Sustainable D2C](./02-Greenory-Sustainable-D2C/)**
-   - *Focus:* D2C business models, KANO analysis, and sustainable urban lifestyle products.
+2. **[Greenory - Sustainable B2C](./02-Greenory-Sustainable-B2C/)**
+   - *Focus:* B2C business models, KANO analysis, and sustainable urban lifestyle products.
    - *Key Deliverable:* CRM implementation for community building.
 
 3. **[Mehmet Coffee](./03-Mehmet-Coffee-Business-Plan/)**
@@ -41,8 +41,8 @@ Willkommen in meinem professionellen Portfolio. Dieses Repository präsentiert e
    - *Fokus:* Premium-Branding, interkulturelles Marketing und mitarbeiterzentriertes CRM.
    - *Kernleistung:* Strategische Analyse & SWOT.
 
-2. **[Greenory - Sustainable D2C](./02-Greenory-Sustainable-D2C/)**
-   - *Fokus:* D2C-Geschäftsmodelle, KANO-Analyse und nachhaltige urbane Lifestyle-Produkte.
+2. **[Greenory - Sustainable D2C](./02-Greenory-Sustainable-B2C/)**
+   - *Fokus:* B2C-Geschäftsmodelle, KANO-Analyse und nachhaltige urbane Lifestyle-Produkte.
    - *Kernleistung:* CRM-Implementierung zur Community-Bildung.
 
 3. **[Mehmet Coffee](./03-Mehmet-Coffee-Business-Plan/)**
